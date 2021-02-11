@@ -1,0 +1,3 @@
+C:/HOMWORK FOLDER/CECS 282/Proj2/cmake-build-debug/CMakeFiles/Proj2.dir
+C:/HOMWORK FOLDER/CECS 282/Proj2/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/HOMWORK FOLDER/CECS 282/Proj2/cmake-build-debug/CMakeFiles/rebuild_cache.dir
